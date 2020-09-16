@@ -5,7 +5,7 @@ Stand in front of the lucky wheel, until the system indicates you to press e, ch
 
 Input the waiting time in seconds.
 
-This script will wait 2s for u changing the focus to the game.
+This script will wait 2s for you changing the focus to the game.
 
 ## requirements
 * pip install pywin32

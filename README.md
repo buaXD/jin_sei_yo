@@ -1,4 +1,4 @@
-# jin_sei_yo
+# jin sei yo
 spin to win
 
 Input the waiting time in seconds

@@ -17,8 +17,8 @@ def key_press(num,duration=0.2):
     time.sleep(duration)
     win32api.keybd_event(num,MapVirtualKey(num,0),win32con.KEYEVENTF_KEYUP,0)
 
-wait_time=input('Press input the waiting time (seconds):')
-print('This script will wait for about 2s to let u change the focus to the game')
+wait_time=input('Please input the waiting time (seconds):')
+print('This script will wait 2s for u changing the focus to the game')
 time.sleep(2)
 print('Pressing e')
 key_press(key_map['E'])

@@ -24,7 +24,7 @@ print('Pressing e')
 key_press(key_map['E'])
 print('Pressing enter')
 key_press(13)   #press enter
-time.sleep(3.6)
+time.sleep(3.75)
 print('start waiting')
 time.sleep(float(wait_time))
 print('Pressing s')
